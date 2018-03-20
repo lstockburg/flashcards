@@ -1,6 +1,11 @@
 .well {
   background-color: #edf298;
   padding: 10px;
+  align-items: center;
+}
+
+h3 {
+  font-size: 20px;
 }
 
 p.hide-text {
